@@ -1,4 +1,4 @@
-module github.com/SynthoSoft/pkg
+module github.com/SynthoSoft/pkg/modules
 
 go 1.19
 
